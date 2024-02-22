@@ -1,2 +1,3 @@
-Clone and npm i 
+Clone and npm i. 
+then.
 npm run android
